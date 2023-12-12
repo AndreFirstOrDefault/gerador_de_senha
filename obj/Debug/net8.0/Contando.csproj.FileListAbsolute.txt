@@ -1,0 +1,14 @@
+D:\DesafiosDeCodigoETestes\Contando\Contando\bin\Debug\net8.0\Contando.exe
+D:\DesafiosDeCodigoETestes\Contando\Contando\bin\Debug\net8.0\Contando.deps.json
+D:\DesafiosDeCodigoETestes\Contando\Contando\bin\Debug\net8.0\Contando.runtimeconfig.json
+D:\DesafiosDeCodigoETestes\Contando\Contando\bin\Debug\net8.0\Contando.dll
+D:\DesafiosDeCodigoETestes\Contando\Contando\bin\Debug\net8.0\Contando.pdb
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\Contando.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\Contando.AssemblyInfoInputs.cache
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\Contando.AssemblyInfo.cs
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\Contando.csproj.CoreCompileInputs.cache
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\Contando.dll
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\refint\Contando.dll
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\Contando.pdb
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\Contando.genruntimeconfig.cache
+D:\DesafiosDeCodigoETestes\Contando\Contando\obj\Debug\net8.0\ref\Contando.dll
